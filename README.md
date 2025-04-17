@@ -19,7 +19,8 @@ This project implements an automated data pipeline that extracts, transforms, an
 <br><br>
 **DAG Structure**
 <br>
-![image](https://github.com/user-attachments/assets/8a055793-ebbc-44c0-8e71-24e0794a8124)
+![image](https://github.com/user-attachments/assets/3ce34e33-1c57-45d5-bca8-a4402aa67879)
+
 <br>
 The pipeline consists of four main tasks:<br>
 
