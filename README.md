@@ -4,12 +4,12 @@
 This project implements an automated data pipeline that extracts, transforms, and loads Amazon Best Sellers data from the RapidAPI Amazon Real-Time Data API into an AWS S3 data lake. The pipeline is orchestrated using Apache Airflow and runs on a daily schedule.
 
 <br>
-**Data Source**: RapidAPI Amazon Real-Time Data API<br>
-**Orchestration**: Apache Airflow<br>
-**Storage**: AWS S3<br>
-**Data Processing**: Python with Pandas and AWS Wrangler<br>
+<b>Data Source</b>: RapidAPI Amazon Real-Time Data API<br>
+<b>Orchestration</b>: Apache Airflow<br>
+<b>Storage</b>: AWS S3<br>
+<b>Data Processing</b>: Python with Pandas and AWS Wrangler<br>
 <br><br>
-**Key Features**
+<b>Key Features</b>
 <br>
 1. Daily extraction of Amazon Best Sellers data for software products<br>
 2. Data validation and API availability checks<br>
