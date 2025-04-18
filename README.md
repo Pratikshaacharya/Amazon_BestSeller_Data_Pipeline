@@ -1,4 +1,4 @@
-### Amazon Best Sellers Data Pipeline
+### RapidAPI-to-AWS Data Integration Pipeline
 <br><br>
 **Project Overview**
 This project implements an automated data pipeline that extracts, transforms, and loads Amazon Best Sellers data from the RapidAPI Amazon Real-Time Data API into an AWS S3 data lake. The pipeline is orchestrated using Apache Airflow and runs on a daily schedule.
@@ -15,6 +15,7 @@ This project implements an automated data pipeline that extracts, transforms, an
 2. Data validation and API availability checks<br>
 3. Data transformation and cleaning<br>
 4. Parquet file storage in S3 data lake<br>
+5. Automated retry logic and failure notifications<br>
 
 <br><br>
 **DAG Structure**
